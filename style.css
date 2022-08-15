@@ -12,8 +12,18 @@ figure {
     display: table;
 }
 
-
 figcaption {
     display: table-caption;
     caption-side: bottom ;
+}
+
+img {
+    max-width:100%;
+    max-height:100%;
+}
+
+#portrait {
+    width: 30%;
+    float: right;
+    margin: 1em;
 }
