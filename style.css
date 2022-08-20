@@ -46,3 +46,19 @@ img {
 #text-box {
     margin: 1em;
 }
+
+a {
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:visited {
+    color: dimgray;
+}
+
+a:link{
+    color: gray;
+}
